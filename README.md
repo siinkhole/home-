@@ -1,5 +1,6 @@
 Home Alarm Automation System using Arduino (TinkerCad)
 
+<br>
 Components Used:
 • Arduino
 • SMOKE DETECTOR MQ6

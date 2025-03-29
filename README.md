@@ -1,3 +1,15 @@
+Home Alarm Automation System using Arduino (TinkerCad)
+
+Components Used:
+• Arduino
+• SMOKE DETECTOR MQ6
+• PIR
+• LDR
+• ULTRASONIC
+• Dc power source (Any 12v)
+• Relay Board of 2 channel
+
+
 #include <Servo.h>
 
 int output1Value = 0;
